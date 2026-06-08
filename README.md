@@ -84,17 +84,6 @@ const ishaq = {
 
 ---
 
-## 📊 Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=isakk-dev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=040B18&title_color=4F8EF7&icon_color=00D4FF&text_color=E8F1FF&ring_color=4F8EF7)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isakk-dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=040B18&title_color=4F8EF7&text_color=E8F1FF)
-
-</div>
-
----
-
 ## 🏆 Números que importan
 
 ```
