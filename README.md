@@ -106,18 +106,6 @@ const ishaq = {
 
 ---
 
-## 💼 Servicios
-
-> ¿Tienes un proyecto? Contacta sin compromiso — respondo en menos de 24h.
-
-| Tier | Descripción | Precio |
-|---|---|---|
-| **Starter** | Bot básico, setup Minecraft, diseño puntual | Desde **15€** |
-| **Pro** ⭐ | Bot completo + dashboard + automatización IA | Desde **60€** |
-| **Custom** | Arquitectura compleja, redes, soluciones enterprise | **A medida** |
-
----
-
 <div align="center">
 
 **¿Hablamos?**
