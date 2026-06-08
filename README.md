@@ -87,10 +87,10 @@ const ishaq = {
 ## 🏆 Números que importan
 
 ```
-🤖  5+   Discord Bots en producción
-👥  50+  Clientes satisfechos
-🖥️  20+  Servidores Minecraft configurados
-⚡  3+   Años de experiencia
+🤖  34+   Discord Bots en producción
+👥  65+  Clientes satisfechos
+🖥️  40+  Servidores Minecraft configurados
+⚡  3.5+   Años de experiencia
 ```
 
 ---
@@ -103,7 +103,7 @@ const ishaq = {
 |---|---|---|
 | **Starter** | Bot básico, setup Minecraft, diseño puntual | Desde **15€** |
 | **Pro** ⭐ | Bot completo + dashboard + automatización IA | Desde **60€** |
-| **Custom** | Arquitectura compleja, redes, soluciones enterprise | **A medida** |
+| **Custom** | Partner, i Join with you as a CEO | **No cost** |
 
 ---
 
